@@ -1,3 +1,7 @@
+*Links de apoio à aula de deep-learning ao curso de ciências da computação-FURB*
+
+## DEEP-LEARNING
+Prof. Me. Gabriel Barreto Alberton
 
 [1 numeros](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)  
 [2 imagens](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)  
