@@ -1,5 +1,5 @@
 *Links de apoio à aula de deep-learning*
-*Curso de ciências da computação - FURB*
+*Curso de ciências da computação*
 
 ## DEEP-LEARNING
 Prof. Me. Gabriel Barreto Alberton
